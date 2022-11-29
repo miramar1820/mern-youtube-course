@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "miras maratov",
+  "mongoUri": "mongodb+srv://mobgodbuser:AIbd1xIXTy8Frtrk@cluster0.mcmsfd2.mongodb.net/?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
